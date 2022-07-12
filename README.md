@@ -4,7 +4,7 @@
 This app displays text that shows Hello from {name}. This app allows the user to press a button in order to change the color of the background, the color of the text, and the text string.
 
 ### App Walk-though
-<img src="https://recordit.co/P5Ad5P7zxD" width=200><br>
+<img src="https://recordit.co/P5Ad5P7zxD.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
